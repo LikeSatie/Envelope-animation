@@ -1,3 +1,1 @@
-# js-slider-nike-sneakears
-
-Image slider in the shopping cart imitation (Слайдер фотографий товара в корзине интернет магазина)
+Envelope opening animation through DOM manipulation (Анимация открытия почтового конверта посредством ДОМ)
